@@ -19,32 +19,8 @@ O site institucional do SocialConnect utiliza as seguintes tecnologias:
 
 # Integrantes do Grupo  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 20px;">
-  <div style="display: flex; align-items: center; margin-right: 15px;">
-    <img src="https://github.com/DaviMunhoz1005.png" alt="Nome 1" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 15px;">
-    <a href="https://github.com/DaviMunhoz1005" style="font-size: 18px; text-decoration: none; color: black;">Davi Munhoz</a>
-  </div>
-
-  <div style="display: flex; align-items: center; margin-right: 15px;">
-    <img src="https://github.com/MariFranca.png" alt="Nome 2" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 15px;">
-    <a href="https://github.com/MariFranca" style="font-size: 18px; text-decoration: none; color: black;">Mariana Franca</a>
-  </div>
-
-  <div style="display: flex; align-items: center; margin-right: 15px;">
-    <img src="https://github.com/catvergueiro.png" alt="Nome 3" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 15px;">
-    <a href="https://github.com/catvergueiro" style="font-size: 18px; text-decoration: none; color: black;">Catarina Luiza</a>
-  </div>
-
-  <div style="display: flex; align-items: center; margin-right: 15px;">
-    <img src="https://github.com/Gabsgc01.png" alt="Nome 4" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 15px;">
-    <a href="https://github.com/Gabsgc01" style="font-size: 18px; text-decoration: none; color: black;">Gabriel Ciriaco</a>
-  </div>
-
-  <div style="display: flex; align-items: center;">
-    <img src="https://github.com/Mafraaa.png" alt="Nome 5" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 15px;">
-    <a href="https://github.com/Mafraaa" style="font-size: 18px; text-decoration: none; color: black;">Vinicius Mafra</a>
-  </div>
-</div>
+| [<img loading="lazy" src="https://github.com/DaviMunhoz1005.png" width=115><br><sub>Davi Marques</sub>](https://github.com/DaviMunhoz1005) |  [<img loading="lazy" src="https://github.com/catvergueiro.png" width=115><br><sub>Catarina Luiza</sub>](https://github.com/catvergueiro) |  [<img loading="lazy" src="https://github.com/Gabsgc01.png" width=115><br><sub>Gabriel Ciriaco</sub>](https://github.com/Gabsgc01) | [<img loading="lazy" src="https://github.com/Mafraaa.png" width=115><br><sub>Vinicius Mafra</sub>](https://github.com/Mafraaa) | [<img loading="lazy" src="https://github.com/MariFranca.png" width=115><br><sub>Mariana Franca</sub>](https://github.com/MariFranca) | 
+| :---: | :---: | :---: | :---: | :---: |
 
 ## Licença
 
